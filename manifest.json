@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "generatedAt": "2026-09-01T00:00:00.000Z",
   "mods": [
     {
       "name": "Andre Skin",
@@ -16,6 +17,26 @@
       "sha256": "a9ca0ac03c9bb7d68a4224b98477238b9276c46a21ca32a86f3063343d790863",
       "size": 4996356,
       "required": true
+    }
+  ],
+  "files": [
+    {
+      "path": "mods/skins/andre.dff",
+      "version": "1.0.0",
+      "size": 4099330,
+      "sha256": "cf24f1796de87c64994aa384eefa62ad37e81185480beefc5442576b262e8869",
+      "url": "https://raw.githubusercontent.com/HW9h7A6JxC/Alsa_Launcher/main/mods/skins/andre.dff",
+      "required": true,
+      "name": "Andre Skin"
+    },
+    {
+      "path": "mods/skins/andre.txd",
+      "version": "1.0.0",
+      "size": 4996356,
+      "sha256": "a9ca0ac03c9bb7d68a4224b98477238b9276c46a21ca32a86f3063343d790863",
+      "url": "https://raw.githubusercontent.com/HW9h7A6JxC/Alsa_Launcher/main/mods/skins/andre.txd",
+      "required": true,
+      "name": "Andre Texture"
     }
   ]
 }
