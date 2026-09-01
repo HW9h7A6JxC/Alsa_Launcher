@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "mods": [
+    {
+      "name": "Andre Skin",
+      "file": "mods/skins/andre.dff",
+      "url": "https://raw.githubusercontent.com/HW9h7A6JxC/Alsa_Launcher/main/mods/skins/andre.dff",
+      "required": true
+    },
+    {
+      "name": "Andre Texture",
+      "file": "mods/skins/andre.txd",
+      "url": "https://raw.githubusercontent.com/HW9h7A6JxC/Alsa_Launcher/main/mods/skins/andre.txd",
+      "required": true
+    }
+  ]
+}
